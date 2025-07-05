@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Lyra-Geometry-Tools-Plugin",
+	"Description": "Tools from Lyra that help build level blockouts",
+	"Category": "Editor",
+	"CreatedBy": "oivio",
+	"CreatedByURL": "https://github.com/oivio/Lyra-Geometry-Tools-Plugin",
+	"DocsURL": "https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-geometry-tools-in-unreal-engine",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
